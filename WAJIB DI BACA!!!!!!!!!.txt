@@ -1,0 +1,49 @@
+Assalamualaikum Warahmatullahi Wabarakatuh.
+
+Pertama-tama, mari kita panjatkan puji syukur kehadirat Allah SWT atas nikmat yang dianugerahkan kepada kita semua sehingga diberi kenikmatan berupa kesehatan jasmani dan rohani.,,,
+
+Selanjutnya saya sampaikan ucapan terima kasih yang sebesar-besarnya kepada para Subscribers saya Dan para dev dev bot yang Berjuang mengembangkan Bot mungkin ada beberapa Dev Bot yang berkontribusi 
+- DikaArdnt
+- Xeon
+- bocilteam
+- baeleys
+- openAi
+- Maslent
+- Nurutomo
+- MhankBarbar
+- Arugaz
+- Kurrxd
+- Para penyedia Scrape
+- Dan Semua Para Pembuat Bot dan masi banyak lgi
+========[ lokasi edit ]==========
+
+karepmu
+
+==========[ penginstalanPack ]============
+~Kalian Bisa copy Ini dan Tinggal tekan y y aja kalau di suruh~
+
+pkg update && pkg upgrade && pkg install nodejs && pkg install yarn && pkg install git && pkg install ffmpeg && pkg install imagemagick && pkg install bash
+
+Jika sudah 
+===========[ Push To storage]=======
+termux-setup-storage {Izinkan}
+cd && cd /sdcard && cd { letak file } && cd {namafile}
+
+===========[Jika Belum ada module]===
+wajib install dari saya 
+===========[ RUN / JALANKAN]======
+[pilih salah satu]
+node .
+npm start
+node index.js
+
+
+==============[ex]==========
+sc ini bisa berjalan tanpa Adanya module
+jika ingin Menggunakan fitur Jadianime khsus 1 fitur ini Itu harus membutuhkan Module MD v5 yang sudah sya sediakan
+
+
+===========[penutup]=========
+Mungkin itulah sedikit sambutan yang bisa kami sampaikan, kami mohon maaf atas segala kekurangan yang ditimbulkan dan semoga ada hikmah yang bisa diplajari dalam sc ini 
+Akhirul Kalam...
+Wassalamu'alaikum Wr.Wb.
